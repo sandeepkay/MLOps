@@ -1,4 +1,4 @@
-# Week 1: A Gentle Introduction to MLOps
+A Gentle Introduction to MLOps
 
 - **Table of Contents**
 
